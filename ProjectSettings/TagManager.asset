@@ -4,9 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - destructive
   - Top
   - Glass
+  - glass
   layers:
   - Default
   - TransparentFX
